@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Tech Stack
-- **Frontend:** HTML, CSS, React.js, Redux,
+- **Frontend:** HTML, CSS, React.js, Redux
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Programming Languages:** JavaScript, TypeScript, Python
 - **Tools & Platforms:** Netlify, Render, Vercel, Postman, VS Code, Git
